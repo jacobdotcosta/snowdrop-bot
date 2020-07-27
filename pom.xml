@@ -146,6 +146,10 @@
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-jdbc-h2</artifactId>
     </dependency>
+    <dependency>
+        <groupId>io.quarkus</groupId>
+        <artifactId>quarkus-jdbc-mariadb</artifactId>
+    </dependency>
     <!-- String appender to generate Markdown format -->
     <dependency>
       <groupId>net.steppschuh.markdowngenerator</groupId>
